@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a1dbbb7fba781fd48b9c6d93f5dd1aeb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274482
+  packageName: Stylized Grass With Wind Effect Shader Graph
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/Environment/New Folder/Scripts/FPSDisplay.cs
+  uploadId: 637786

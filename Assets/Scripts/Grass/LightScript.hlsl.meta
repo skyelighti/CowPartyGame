@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f154e4c7ddf21dd42b279fbaf3a4f3ae
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274482
+  packageName: Stylized Grass With Wind Effect Shader Graph
+  packageVersion: 1.0
+  assetPath: Assets/Scripts/Grass/LightScript.hlsl
+  uploadId: 637786

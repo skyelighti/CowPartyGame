@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d3c14d093c5efa488e582f9a1b2f663
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274482
+  packageName: Stylized Grass With Wind Effect Shader Graph
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/Environment/New Folder/Textures/terrain_layers/dirt_lighted_down.terrainlayer
+  uploadId: 637786

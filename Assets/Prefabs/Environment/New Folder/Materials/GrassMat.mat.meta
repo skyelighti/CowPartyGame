@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d29d68c7af20fb4482e7831ddb769a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274482
+  packageName: Stylized Grass With Wind Effect Shader Graph
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/Environment/New Folder/Materials/GrassMat.mat
+  uploadId: 637786

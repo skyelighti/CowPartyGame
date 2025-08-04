@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7472172987922033124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3585801160512186201}
+  - component: {fileID: 4875414443189297538}
+  m_Layer: 0
+  m_Name: SoundMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3585801160512186201
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7472172987922033124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4875414443189297538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7472172987922033124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71ad1f81aad21f649a5afb62ae51811b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lobby:
+    Guid:
+      Data1: -1738182044
+      Data2: 1196549399
+      Data3: 1390159549
+      Data4: 1016430369
+    Path: event:/Lobby
+  win:
+    Guid:
+      Data1: 1551783160
+      Data2: 1300429391
+      Data3: 1224255678
+      Data4: -569235964
+    Path: event:/WinScreen
+  lose:
+    Guid:
+      Data1: -371329546
+      Data2: 1280283071
+      Data3: -703375440
+      Data4: 2105493925
+    Path: event:/LoseScreen
+  start:
+    Guid:
+      Data1: 1508982980
+      Data2: 1269604557
+      Data3: 700415111
+      Data4: -1095569133
+    Path: event:/StartMenu
+  game:
+    Guid:
+      Data1: -815514890
+      Data2: 1286640699
+      Data3: 2121778352
+      Data4: -345673584
+    Path: event:/Game Music
+  Countdown:
+    Guid:
+      Data1: 2021986908
+      Data2: 1144261963
+      Data3: 1352540556
+      Data4: -1676950841
+    Path: event:/Countdown

@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5626208393923151946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6578779161529309632}
+  - component: {fileID: 5638412901790508348}
+  - component: {fileID: 2586852499846228289}
+  m_Layer: 0
+  m_Name: NetSfx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6578779161529309632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5626208393923151946}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5638412901790508348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5626208393923151946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 3991557581
+  InScenePlacedSourceGlobalObjectIdHash: 0
+  DeferredDespawnTick: 0
+  Ownership: 1
+  AlwaysReplicateAsRoot: 0
+  SynchronizeTransform: 1
+  ActiveSceneSynchronization: 0
+  SceneMigrationSynchronization: 1
+  SpawnWithObservers: 1
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1
+  SyncOwnerTransformWhenParented: 1
+  AllowOwnerToParent: 0
+--- !u!114 &2586852499846228289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5626208393923151946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88992d2e78a0b8a42abf87c91370366a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  library:
+  - id: 0
+    eventRef:
+      Guid:
+        Data1: 1232456683
+        Data2: 1271274130
+        Data3: 529836428
+        Data4: 2017321360
+      Path: event:/Abilities
+    modName: AbilityType
+  - id: 2
+    eventRef:
+      Guid:
+        Data1: 656102819
+        Data2: 1183524271
+        Data3: -2039817806
+        Data4: -1655558832
+      Path: event:/Cow
+    modName: CowMod
+  - id: 4
+    eventRef:
+      Guid:
+        Data1: 154745048
+        Data2: 1333757412
+        Data3: -1711500356
+        Data4: 938329314
+      Path: event:/Haybale
+    modName: HayType
+  - id: 6
+    eventRef:
+      Guid:
+        Data1: 1384863442
+        Data2: 1209944527
+        Data3: 454249120
+        Data4: -1458127249
+      Path: event:/UFO_Beam
+    modName: UFOisBeaming
+  - id: 7
+    eventRef:
+      Guid:
+        Data1: 30296486
+        Data2: 1220084601
+        Data3: 1787353217
+        Data4: 215830622
+      Path: event:/UFO_Float
+    modName: UFOisFloating
+  - id: 10
+    eventRef:
+      Guid:
+        Data1: -1891649382
+        Data2: 1131620406
+        Data3: -1681936219
+        Data4: 1242971970
+      Path: event:/Walk
+    modName: WalkType
+  - id: 17
+    eventRef:
+      Guid:
+        Data1: 817797454
+        Data2: 1080467420
+        Data3: 1059016600
+        Data4: -671917823
+      Path: event:/Hurt
+    modName: None
+  - id: 18
+    eventRef:
+      Guid:
+        Data1: 152954961
+        Data2: 1098974117
+        Data3: -1784882269
+        Data4: 549225750
+      Path: event:/Take It
+    modName: None
+  - id: 19
+    eventRef:
+      Guid:
+        Data1: 1220243735
+        Data2: 1085576759
+        Data3: 1734810537
+        Data4: 647144865
+      Path: event:/Walking Around
+    modName: None
+  - id: 20
+    eventRef:
+      Guid:
+        Data1: -1581268204
+        Data2: 1077540774
+        Data3: -1993255778
+        Data4: 1884469772
+      Path: event:/Aliens Hiding
+    modName: None
+  - id: 20
+    eventRef:
+      Guid:
+        Data1: -632825589
+        Data2: 1108712906
+        Data3: 1870844311
+        Data4: 249413512
+      Path: event:/Nice Shooting
+    modName: None
+  - id: 22
+    eventRef:
+      Guid:
+        Data1: 607984331
+        Data2: 1238881662
+        Data3: 1357954710
+        Data4: -1404736863
+      Path: event:/Comeon Now
+    modName: None
+  - id: 23
+    eventRef:
+      Guid:
+        Data1: -1610144212
+        Data2: 1218043873
+        Data3: 1483933887
+        Data4: -142204194
+      Path: event:/Yer Kind
+    modName: None

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70740aa6a64464048b95336ea589aebb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274482
+  packageName: Stylized Grass With Wind Effect Shader Graph
+  packageVersion: 1.0
+  assetPath: Assets/Prefabs/Environment/New Folder/Textures/TerrainColor.renderTexture
+  uploadId: 637786

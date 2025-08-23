@@ -201,7 +201,7 @@ MonoBehaviour:
   Path: Assets/SoundDev1/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638895050370738858
+  lastModified: 638894942370738858
   FileSizes: []
   Exists: 1
 --- !u!114 &-6508349058642087720
@@ -246,7 +246,7 @@ MonoBehaviour:
   Path: Assets/SoundDev1/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638895050370746069
+  lastModified: 638894942370746069
   FileSizes:
   - Name: 
     Value: 2314
@@ -641,7 +641,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -5913487183126231948}
   cacheVersion: 131848
-  cacheTime: 638895050370746069
+  cacheTime: 638894942370746069
   SerializableEventsDict:
   - key: event:/VoiceAlien
     index: 0
